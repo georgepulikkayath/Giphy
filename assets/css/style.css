@@ -1,0 +1,16 @@
+#add-container{
+    float:right;
+    padding-right:25px;
+}
+.dvImg{
+    float: left;
+    margin-top:35px;
+    width:350px;
+    padding:15px;
+}
+.animal{
+    background-color:#00ffff;
+}
+.btn-submit{
+    background-color:#00ffff;
+}
